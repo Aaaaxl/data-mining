@@ -11,12 +11,12 @@
 
 ## 📑 目录
 
-* [[实验一：PageRank 计算](https://github.com/Aaaaxl/data-mining/tree/master/PageRank)]
-* [实验二：社区发现](#实验二-社区发现)
-* [实验三：关联挖掘与降维](#实验三-关联挖掘与降维)
-* [实验四：数据聚合分析](#实验四-数据聚合分析)
-* [实验五：关联规则挖掘](#实验五-关联规则挖掘)
-* [实验六：聚类分析](#实验六-聚类分析)
+* [实验一：PageRank 计算](https://github.com/Aaaaxl/data-mining/tree/master/PageRank)
+* [实验二：社区发现](https://github.com/Aaaaxl/data-mining/tree/master/%E7%A4%BE%E5%8C%BA%E5%8F%91%E7%8E%B0)
+* [实验三：关联挖掘与降维](https://github.com/Aaaaxl/data-mining/tree/master/%E5%85%B3%E8%81%94%E6%8C%96%E6%8E%98%E4%B8%8E%E9%99%8D%E7%BB%B4)
+* [实验四：数据聚合分析](https://github.com/Aaaaxl/data-mining/tree/master/%E6%95%B0%E6%8D%AE%E8%81%9A%E5%90%88%E5%88%86%E6%9E%90)
+* [实验五：关联规则挖掘](https://github.com/Aaaaxl/data-mining/tree/master/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99)
+* [实验六：聚类分析](https://github.com/Aaaaxl/data-mining/tree/master/%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90)
 
 ---
 
