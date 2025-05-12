@@ -2,7 +2,7 @@
 
 # 数据挖掘实验
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Issues](https://img.shields.io/github/issues/你的用户名/data-mining)](https://github.com/你的用户名/data-mining/issues) [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)]()
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)]()
 
 > 本仓库收录了《数据挖掘》课程的六个实验，涵盖 PageRank、社区发现、关联挖掘、聚类分析等核心技术。
 > 每个实验均附带实验背景、问题描述、算法思路及结果展示。
@@ -129,20 +129,4 @@
 
 ---
 
-## 🛠 环境与运行
-
-```bash
-# 克隆仓库
-git clone https://github.com/你的用户名/data-mining.git
-cd data-mining
-
-# 安装依赖（示例）
-pip install -r requirements.txt
-
-# 运行对应实验脚本
-python experiment1_pagerank.py
-```
-
----
-
-> 如有疑问或建议，欢迎提 [Pull Request](https://github.com/你的用户名/data-mining/pulls) 或 Issue。
+> 如有疑问或建议，请联系作者！
